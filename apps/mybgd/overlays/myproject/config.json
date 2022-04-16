@@ -1,0 +1,10 @@
+{
+  "appName": "mybgd",
+  "userGivenName": "mybgd",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/mybgd/overlays/myproject",
+  "srcRepoURL": "https://github.com/christianh814/acap-test.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
